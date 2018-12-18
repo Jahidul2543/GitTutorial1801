@@ -1,0 +1,7 @@
+I am a Git repository
+To make me git please use bellow commands
+
+git inti
+git addn .
+git commit -m "meaningful message"
+
