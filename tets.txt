@@ -5,3 +5,11 @@ git inti
 git addn .
 git commit -m "meaningful message"
 
+Now lets edit the file
+do bellow after editing in order to upload files in GitHub(Cloud repository)
+
+git add .
+git commit -m "edited tets.txt file"
+git push -u origin master
+
+You are done.. 100%
